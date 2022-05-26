@@ -5,7 +5,7 @@
       <paths name="yakupkaplan@20.123.208.146:22 key">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/home/yakupkaplan/datatalksclub-mlops-zoomcamp" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
